@@ -1,6 +1,6 @@
 # JavaScript-Lightbox
 
-Simple html, css and js lightbox
+Simple html, css and js lightbox for desktop applications
 
 ##Technologies
 * html
